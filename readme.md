@@ -13,3 +13,4 @@ creer un service de configuration pour une configuration centralise (local folde
 pour customer service on va specifier le port de config server
 ![](screenshots/application-properties.png)
 ![](screenshots/consul2.png)
+![](screenshots/json2.png)
